@@ -1,0 +1,36 @@
+{
+  "name": "@types/testing-library__jest-dom",
+  "version": "5.14.5",
+  "description": "TypeScript definitions for @testing-library/jest-dom (with Vitest)",
+  "homepage": "https://github.com/erictaylor/types-testing-library-vitest-dom",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "contributors": [
+    {
+      "name": "Eric Taylor",
+      "url": "https://github.com/erictaylor",
+      "githubUsername": "erictaylor"
+    },
+    {
+      "name": "Ernesto García",
+      "url": "https://github.com/gnapse",
+      "githubUsername": "gnapse"
+    },
+    {
+      "name": "John Gozde",
+      "url": "https://github.com/jgoz",
+      "githubUsername": "jgoz"
+    },
+    {
+      "name": "Seth Macpherson",
+      "url": "https://github.com/smacpherson64",
+      "githubUsername": "smacpherson64"
+    },
+    {
+      "name": "Andrew Leedham",
+      "url": "https://github.com/AndrewLeedham",
+      "githubUsername": "AndrewLeedham"
+    }
+  ]
+}
